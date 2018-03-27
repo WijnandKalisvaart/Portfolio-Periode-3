@@ -1,0 +1,16 @@
+body{
+    background-image: url("pexelsss.jpeg");
+}
+
+body > h1{
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    margin-right: -50%;
+    font-size: 550%;
+}
+
+.main{
+
+}

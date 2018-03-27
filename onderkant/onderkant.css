@@ -1,0 +1,32 @@
+html{
+    font-family: "Lucida Sans";
+}
+body{
+    margin: 0 auto;
+}
+main{
+    background-color: dodgerblue;
+    height: 500px;
+    width: 50%;
+    padding: 0 auto;
+    float: left;
+}
+main > h3{
+    color: white;
+}
+aside{
+    background-color: lightblue;
+    height: 500px;
+    width: 50%;
+    float: right;
+}
+
+footer{
+    background-color: gray;
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    right: 0;
+    margin-top: 30%;
+    left: 0;
+}
